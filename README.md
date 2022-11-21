@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+     ✨ je m'appelle GHARBI Rima ✨
+je suis enseigante en informatique 
+je prend le chemin de la spécialité dans le monde du DevOps
 
 <!--
 **GHARBI-R/GHARBI-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
