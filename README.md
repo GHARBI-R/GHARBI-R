@@ -1,7 +1,7 @@
 Hi there 👋
 
      ✨ je m'appelle GHARBI Rima ✨
-je suis enseigante en informatique 
+je suis enseigante en informatique depuis 15 ans mais aujourd'hui 
 je prend le chemin de la spécialité dans le monde du DevOps
 
 <!--
